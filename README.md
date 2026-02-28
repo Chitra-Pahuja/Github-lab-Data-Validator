@@ -53,7 +53,7 @@ mlops-github-actions-data-validator/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com//mlops-github-actions-data-validator.git
+   git clone https://github.com/Chitra-Pahuja/mlops-github-actions-data-validator.git
    cd mlops-github-actions-data-validator
    ```
 
@@ -153,7 +153,3 @@ summary = data_validator.fun4(missing, duplicates, type_check)
 - **unittest** - Python's built-in testing framework
 - **GitHub Actions** - CI/CD pipeline for automated testing
 - **Virtual Environment (venv)** - Dependency isolation
-
-## Author
-
-**[Your Name]** - Northeastern University, MLOps (DADS 7305)
